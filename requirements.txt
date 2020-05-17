@@ -1,0 +1,16 @@
+pyarrow
+pandas
+numpy
+jupyter
+boto3
+s3fs
+dask
+cython
+numexpr
+numba
+requests
+matplotlib
+astropy
+scikit-learn
+scikit-image
+scipy
