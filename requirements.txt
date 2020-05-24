@@ -1,3 +1,7 @@
+--index-url https://westonsteimel.github.io/pypi-repo 
+--extra-index-url https://pypi.org/pypi
+--extra-index-url https://pypi.org/simple
+
 pyarrow
 pandas
 numpy
